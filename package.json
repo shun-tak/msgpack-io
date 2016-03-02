@@ -1,0 +1,11 @@
+{
+  "name": "msgpack-io",
+  "version": "0.0.1",
+  "description": "Create HTTP request with MessagePack (msgpack) body",
+  "main": "app.js",
+  "author": "shun-tak",
+  "license": "MIT",
+  "dependencies": {
+    "msgpack": "~1.0.2"
+  }
+}
